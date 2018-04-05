@@ -4,4 +4,5 @@ require 'minitest/pride'
 require './lib/activity'
 
 class ActivityTest < Minitest::Test
+  def
 end
